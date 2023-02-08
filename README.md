@@ -29,16 +29,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://www.loom.com/share/4c850e2067404fe6a72ef3da7611dfe5">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4c850e2067404fe6a72ef3da7611dfe5-with-play.gif">
+<a href="https://www.loom.com/share/f16b98b8157040af80dc3aa0b9ebafd1">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f16b98b8157040af80dc3aa0b9ebafd1-with-play.gif">
   </a>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Video loom
 
 ## Notes
 
